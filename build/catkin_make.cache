@@ -1,0 +1,2 @@
+lane_map:lanes_costmap
+-DCATKIN_DEVEL_PREFIX=/home/kaifu10/Desktop/LaneLabor/lane_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kaifu10/Desktop/LaneLabor/lane_ws/install -G Unix Makefiles

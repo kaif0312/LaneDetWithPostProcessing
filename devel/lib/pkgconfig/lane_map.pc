@@ -1,0 +1,8 @@
+prefix=/home/kaifu10/Desktop/LaneLabor/lane_ws/devel
+
+Name: lane_map
+Description: Description of lane_map
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

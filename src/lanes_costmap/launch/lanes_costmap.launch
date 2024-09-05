@@ -1,0 +1,5 @@
+<launch>
+  <node name="lanes_to_cloud" pkg="lanes_costmap" type="lanes_to_cloud" output="screen"/>
+  <node name="lanedetector" pkg="lanes_costmap" type="lanedetector.py" output="screen"/>
+  <node name="lane_publisher" pkg="lane_map" type="lane_publisher.py" output="screen"/>
+</launch>
